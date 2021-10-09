@@ -67,3 +67,12 @@
     color: yellow;
     font-size: 32px;
 }
+
+
+#logobottom{
+    height: 50px;
+}
+
+.footercolor{
+    background-color: rgb(9, 1, 48);
+}
