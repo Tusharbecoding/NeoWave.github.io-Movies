@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
-@font-face {
-    font-family: 'SpaceAge';
-    src: url('space\ age.ttf');
-}
 
 @font-face {
     font-family: 'Retro';
@@ -15,7 +11,7 @@
 
 .secnav{
     padding: 6px 20px;
-    font-size: 32px;
+    font-size: 12px;
 }
 @media screen and (max-width: 377px) {
     #logo {
@@ -36,7 +32,7 @@
 }
 
 .nav1{
-    margin-right: 425px;
+    margin-right: 350px;
 }
 
 .nav1 a#active{
@@ -49,7 +45,7 @@
 }
 
 .mainback{
-    font-family: 'Retro';
+    font-family: '8-Bit';
     background-color: rgb(9, 1, 48);
 }
 
