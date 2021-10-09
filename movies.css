@@ -50,7 +50,9 @@
 }
 
 .main-container{
-    background-image: url('homepg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url('webpage\ bg.jpg');
     font-family: '8-Bit';
 }
 
